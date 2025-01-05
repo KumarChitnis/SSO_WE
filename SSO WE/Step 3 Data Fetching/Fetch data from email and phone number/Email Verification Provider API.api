@@ -1,0 +1,9 @@
+GET https://api.mailersend.com/v1/activity/{activity_id}
+
+Body:
+{
+    "limit": "2",
+    "date_from": "1615824000",
+    "date_to": "1616342400",
+    "event": ["delivered"]
+}

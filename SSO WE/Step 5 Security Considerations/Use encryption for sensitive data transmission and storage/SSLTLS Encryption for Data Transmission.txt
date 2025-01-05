@@ -1,0 +1,5 @@
+To use SSL/TLS encryption for data transmission between the client and server, you can follow these steps:
+
+    Obtain an SSL/TLS Certificate: Obtain an SSL/TLS certificate from a trusted certificate authority (CA) or generate a self-signed certificate.
+    Configure the Server: Configure the server to use the SSL/TLS certificate and enable HTTPS.
+    Use HTTPS in the Client: Use HTTPS in the client to connect to the server and transmit data.
